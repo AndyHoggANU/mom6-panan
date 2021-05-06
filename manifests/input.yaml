@@ -196,6 +196,11 @@ work/INPUT/ocean_topog.nc:
   hashes:
     binhash: 842d45dc49df66208edca802befe2948
     md5: 36b664f34bc9e230ad9a9d6b0688fd15
+work/INPUT/ocean_topog_masked.nc:
+  fullpath: /g/data/x77/ahg157/inputs/mom6/panan/ocean_topog_masked.nc
+  hashes:
+    binhash: 1368851db254a3d5ecced68aa2e95c9e
+    md5: 5ea3db707d200efc2d6078767282cc30
 work/INPUT/scrip_dest.nc:
   fullpath: /g/data/x77/ahg157/inputs/mom6/panan/scrip_dest.nc
   hashes:

@@ -4,5 +4,5 @@ version: 1.0
 work/MOM6:
   fullpath: /home/157/ahg157/repos/mom6/build/ice_ocean_SIS2_symmetric/MOM6
   hashes:
-    binhash: 5d487570d0fadcf292e8ea82c972f40d
-    md5: 10875bbc19c5702b1a067e67a574b1d0
+    binhash: f940d68ee1294a088cac8752b7ba7e09
+    md5: 3dd81f1a4b555b5f5b80bce4600d5ae8
